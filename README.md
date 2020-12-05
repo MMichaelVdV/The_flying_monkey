@@ -1,2 +1,2 @@
 # The_flying_monkey
-Dangerous pandemic virus that makes monkeys fly
+Cellular automata to study a dangerous pandemic virus that makes monkeys fly
